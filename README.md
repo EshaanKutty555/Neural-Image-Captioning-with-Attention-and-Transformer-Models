@@ -78,7 +78,7 @@ The project is structured as a series of experiments, each implemented in separa
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 - Python  
 - PyTorch  
